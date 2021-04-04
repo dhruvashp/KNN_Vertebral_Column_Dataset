@@ -1,0 +1,3 @@
+,Manhattan,Euclidean,Chebyshev,Mahalanobis
+Test Error,0.11,0.06,0.08,0.16
+k=k*,6,4,16,6
